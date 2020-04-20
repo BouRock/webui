@@ -5,16 +5,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Builtin Groups"
-msgstr ""
+msgstr " Yerleşik Gruplar"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr " Yerleşik Kullanıcılar"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " Daha fazla ayrıntı için Bildirimleri denetleyin."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Güncellemeleri İndir"
 
 msgid " First vdev has "
 msgstr ""
@@ -23,13 +23,13 @@ msgid " First vdev is a "
 msgstr ""
 
 msgid " KiB."
-msgstr ""
+msgstr " KiB."
 
 msgid " Plugin"
-msgstr ""
+msgstr " Eklenti"
 
 msgid " Service"
-msgstr ""
+msgstr " Hizmet"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
